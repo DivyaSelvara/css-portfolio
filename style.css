@@ -1,0 +1,49 @@
+body{
+background-color:whitesmoke;
+}
+
+.poster{
+    border:20px solid blue;
+    width:30%;
+    margin-left:30%;
+    margin-top:20px;
+    
+    font-family: 'Roboto', sans-serif;
+    color:black;
+}
+.vannam-file{
+
+    border:5px solid blue;
+    width:100%;
+
+}
+    h1{
+        border:10px solid white;
+        text-transform: uppercase;
+        font-size: small;
+        background-color: azure;
+        text-align: center;
+    }
+
+    p{
+        color:white;
+        font-size:small;
+        background-color: black;
+        text-align: center;
+    }
+#first{
+    border:10px solid black;
+    width:50px;
+}
+#second{
+    border:10px solid black;
+    width:50px;
+}
+#third{
+    border:10px solid black;
+    width:50px;
+}
+h2{
+     font-family: 'Roboto', sans-serif;
+     font-size: small;
+}
